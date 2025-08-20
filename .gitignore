@@ -1,0 +1,25 @@
+# JetBrains IDE files
+.idea/
+
+# VS Code files
+.vscode/
+*.code-workspace
+.history/
+
+# Compiled binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go specific
+*.test
+*.out
+*.html
+/vendor/
+/Godeps/
+
+# OS specific
+.DS_Store
+Thumbs.db
